@@ -1,7 +1,0 @@
-baseURL = 'https://hummelriegel.github.io/mlweek_berlin_2023/'
-languageCode = 'en-us'
-title = 'ML Week Berlin 2023: Data-Driven Claims Assessment (DDCA)'
-
-[params]
-avatar = "/img/avatar.svg"
-username = "Ole Brodersen & Thomas Hummel"

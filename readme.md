@@ -1,22 +1,19 @@
-# Hugo Link in Bio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8224c8e4-ea2b-4544-8251-541b27895c25/deploy-status)](https://app.netlify.com/sites/hugo-link-bio/deploys)
+# Boostrap 4 Github Pages
 
-Link in bio page powered by Hugo. Live demo: https://hugo-link-bio.netlify.app/
+A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 
-# Create new link
+* A full Bootstrap 4 theme usable both on Github Pages and with a standalone Jekyll.
+* Recompiles Bootstrap from SCSS files, which allows to customize Bootstrap's variables and use Bootstrap themes.
+* Full support of Bootstrap's JavaScript plugins.
+* Supports all features of Github Pages and Jekyll.
 
-```bash
-hugo new link/link-name.md
-```
+[See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
 
-Fill the `thumbnail` and `link` front-matter.
+## Contribution
 
-Example:
+[See the contribution guide.](./CONTRIBUTING.md)
 
-```yaml
----
-thumbnail: /img/thumbnail/github.png
-link: http://github.com/ardianta
----
-```
+## License
+
+[See the license file.](./LICENSE.md)
