@@ -1,7 +1,12 @@
 ---
 layout: page
-title: From Experiments to Production - Building a Scalable Machine-Learning Service for Claims Assessment
+title: Building a Scalable Machine-Learning Service for Claims Assessment
+author:
+- Ole Brodersen
+- Thomas Hummel
+abstract: In this talk, we will delve into our journey of constructing a scalable machine-learning service for claims assessment within the automotive after-sales industry. Starting with local datasets and Jupyter notebooks, we will share how we transformed our initial experiments into a productive application. Our approach involved leveraging Azure Databricks, Kubernetes, and Seldon to enable seamless transitions from research to production, encompassing crucial aspects such as (re-)training, model deployment, and monitoring. We will also share how we transformed the starting team of data scientists into a full ML-ops application team.
 ---
+From experiments to production.
 
 Accompanying resources to the conference talk at [Machine Learning Week Europe](https://machinelearningweek.eu/), 15.-16. November 2023, Berlin
 
