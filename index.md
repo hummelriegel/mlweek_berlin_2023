@@ -21,4 +21,4 @@ In this talk, we will delve into our journey of constructing a scalable machine-
 # Mercedes-Benz
 * [All about IT @Mercedes-Benz.](https://mb4.me/all-about-it)
 * [Artificial Intelligence. For Nerds](https://group.mercedes-benz.com/careers/about-us/artificial-intelligence/for-nerds/)
-* [Mercedes-Benz Careers Portal](https://group.mercedes-benz.com/careers/job-search/)
+* [Mercedes-Benz Careers Portal](https://jobs.mercedes-benz.com/)
